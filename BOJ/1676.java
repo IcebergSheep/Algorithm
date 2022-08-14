@@ -1,3 +1,5 @@
+//팩토리얼 0의 개수
+
 import java.util.Scanner;
 
 public class Main {
