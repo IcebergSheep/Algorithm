@@ -1,3 +1,5 @@
+//요세푸스 문제
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -10,7 +12,7 @@ public class Main {
         N = scan.nextInt();
         K = scan.nextInt();
 
-        Queue<Integer> q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>(); 
 
         for(int i = 1; i<=N; i++){
             q.add(i);
