@@ -11,7 +11,7 @@ public class Main {
         int count = 0;
         
         while(num >= 5){
-            count += n/5;
+            count += num/5;
             num /= 5;
         }
         
